@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cool-bw-portrait-of-kakashi-g0edw1zik5r7equ8.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
